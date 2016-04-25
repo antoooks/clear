@@ -718,30 +718,35 @@ a:focus {
 }
 
 .wp-pagenavi a, .wp-pagenavi a:link, .wp-pagenavi a:active {
-    color: #333333;
-    background:none;
+    color: black;
+//#333333;
+    background:black;
 }
 
 .wp-pagenavi span.current {
     font-weight: bold;
-    color: #fff;
+    color: blue;
+// #fff;
     background:#E84C3D;
 }
 
 .wp-pagenavi a:hover {
-    color: #fff;
+    color: blue;
+// #fff;
     background:#34495E;
 }
 
 .wp-pagenavi span.pages {
-    color: #333333;
+    color: black;
+//#333333;
     background: none;
     padding: 4px 8px 4px 0;
 }
 
 .wp-pagenavi span.extend {
     background:transparent;
-    color: #333333;
+    color: black;
+//#333333
     background: none;
 }
 
